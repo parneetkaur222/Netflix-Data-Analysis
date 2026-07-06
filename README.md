@@ -58,7 +58,7 @@ jupyter notebook
 - Incorporate additional datasets for deeper engagement analysis
 - Automate the data cleaning pipeline as a reusable Python script
 
-## Author
+## Author parneet 
 
 Parneet
 Data Analyst Portfolio Project
